@@ -4,7 +4,7 @@ Kode ini berfungsi untuk mencari data didalam array
 
 Informasi:
 
-1. Mendukung pada data bertipe integer
+1. Mendukung data bertipe integer
 2. Mendukung data bertipe char atau string
 3. Jumlah data array bersifat tak terbatas atau infinity.
 
